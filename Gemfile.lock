@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/ankane/strong_migrations.git
-  revision: 715e368c16cb91b44c764089105ec95a622b24f8
+  revision: 8e9c9b82834b1761ce91e9746a369b3f243b5c31
   specs:
-    strong_migrations (1.2.0)
+    strong_migrations (1.4.1)
       activerecord (>= 5.2)
 
 GIT
@@ -219,7 +219,7 @@ GEM
     mime-types-data (3.2022.0105)
     mini_magick (4.11.0)
     mini_mime (1.1.2)
-    minitest (5.16.3)
+    minitest (5.17.0)
     msgpack (1.5.6)
     multi_xml (0.6.0)
     net-imap (0.2.3)
